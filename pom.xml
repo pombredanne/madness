@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+<modelVersion>4.0.0</modelVersion>
+<groupId>com.mergebase</groupId>
+<version>2019.02.01</version>
+<artifactId>madness</artifactId>
+<packaging>pom</packaging>
+
+<properties>
+    <failOnMissingWebXml>false</failOnMissingWebXml>   
+</properties>
+
+<modules>
+  <module>sub1</module>
+  <module>sub2</module>
+  <module>sub3</module>
+  <module>sub4</module>
+  <module>sub5</module>
+  <module>ear</module>
+</modules>
+
+</project>
