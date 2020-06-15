@@ -51,7 +51,7 @@
 <dependency><groupId>stax</groupId><artifactId>stax-api</artifactId><version>1.0.1</version></dependency>
 <dependency><groupId>xalan</groupId><artifactId>serializer</artifactId><version>2.7.1</version></dependency>
 <dependency><groupId>xalan</groupId><artifactId>xalan</artifactId><version>2.7.1</version></dependency>
-<dependency><groupId>xerces</groupId><artifactId>xercesImpl</artifactId><version>2.6.2</version></dependency>
+<dependency><groupId>xerces</groupId><artifactId>xercesImpl</artifactId><version>2.12.0</version></dependency>
 
 <dependency><groupId>log4j</groupId><artifactId>log4j</artifactId><version>1.2.15</version>
   <exclusions>
